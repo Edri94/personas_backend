@@ -1,0 +1,6 @@
+mx\com\edri\domain\Persona.class
+mx\com\edri\servicio\PersonaServiceRS.class
+mx\com\edri\data\PersonaDaoImpl.class
+mx\com\edri\web\CorsFilter.class
+mx\com\edri\web\JAXRSActivator.class
+mx\com\edri\data\PersonaDao.class
